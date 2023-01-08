@@ -1,2 +1,2 @@
-# ResumeB
+# ResumeBuilder
 Resume Builder
